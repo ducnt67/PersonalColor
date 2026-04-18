@@ -1,8 +1,9 @@
 [theme]
-primaryColor = "#e7b7ca"
-backgroundColor = "#fffefe"
-secondaryBackgroundColor = "#fff8fb"
-textColor = "#111111"
+# BeautyTone Soft Luxury Theme
+primaryColor = "#EC4899"
+backgroundColor = "#FDF2F8"
+secondaryBackgroundColor = "#FCE7F3"
+textColor = "#831843"
 font = "sans serif"
 
 [layout]

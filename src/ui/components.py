@@ -17,9 +17,9 @@ def render_hero():
     <div class="hero-box">
         <div class="hero-title">🌸 Personal Color Prosedure</div>
         <div class="hero-subtitle">
-            Khám phá mùa sắc cá nhân, undertone và gợi ý phong cách phù hợp từ ảnh khuôn mặt
-            kết hợp cùng thông số cơ thể. Giao diện được tối giản theo phong cách trắng - hồng nhẹ,
-            chữ đen rõ ràng và dễ nhìn hơn.
+            Khám phá mùa màu cá nhân, đặc điểm làn da và gợi ý phong cách được cá nhân hóa qua 
+            công nghệ AI. Thiết kế theo phong cách Soft UI tinh tế và vô cùng sang trọng, 
+            mang đến cho bạn sự đẳng cấp chuẩn Editorial.
         </div>
         <div class="pill-row">
             <div class="pill">AI Facial Analysis</div>

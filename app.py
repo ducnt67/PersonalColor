@@ -44,12 +44,7 @@ if os.path.exists(STYLE_CSS_PATH):
 # =========================================================
 # HEADER CHUYÊN NGHIỆP
 # =========================================================
-st.markdown("""
-<div style="background-color: #fff9fc; padding: 20px; text-align: center; border-bottom: 2px solid #f3d7e3; margin-bottom: 30px;">
-    <h1 style="color: #ea4c89; margin:0;">✨ Personal Color Prosedure ✨</h1>
-    <p style="color: #666; font-size: 1.1em; margin-top: 5px;">Hệ thống đề xuất màu sắc phù hợp với bạn</p>
-</div>
-""", unsafe_allow_html=True)
+render_hero()
 
 # =========================================================
 # 2. XỬ LÝ DỮ LIỆU
@@ -62,7 +57,7 @@ _, profile_df = load_fashion_data()
 
 # Khối upload chính - Thiết kế như một vùng DropZone lớn
 st.markdown("<div class='section-title' style='text-align: center; margin-top: 20px;'>Tải Lên Ảnh Của Bạn</div>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; color: #555; margin-bottom: 25px;'>Kéo thả trực tiếp tệp hình ảnh vào bên dưới hoặc nhấp để chọn tệp. Hệ thống sẽ tự động bắt đầu phân tích.</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: var(--color-foreground); opacity: 0.8; margin-bottom: 25px;'>Kéo thả trực tiếp tệp hình ảnh vào bên dưới hoặc nhấp để chọn tệp. Hệ thống sẽ tự động bắt đầu phân tích.</p>", unsafe_allow_html=True)
 
 img_file = None
 upload_method = None
@@ -219,8 +214,8 @@ else:
 # FOOTER CHUYÊN NGHIỆP
 st.markdown("---")
 st.markdown("""
-<div style="text-align: center; color: #888; font-size: 0.9em; padding: 20px;">
+<div style="text-align: center; color: var(--color-foreground); opacity: 0.7; font-size: 0.9em; padding: 20px;">
     &copy; 2026 BeautyTone AI Studio. Sản phẩm giúp định hướng phong cách sống và làm đẹp.<br>
-    Được thiết kế hiện đại, thông minh với <span style="color:#ea4c89;">&hearts;</span> cho cộng đồng làm đẹp.
+    Được thiết kế hiện đại, thông minh với <span style="color: var(--color-primary);">&hearts;</span> cho cộng đồng làm đẹp.
 </div>
 """, unsafe_allow_html=True)

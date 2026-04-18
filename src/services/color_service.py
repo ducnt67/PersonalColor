@@ -63,6 +63,14 @@ def predict(img):
         out_fitz, out_under, out_season = model(img_tensor)
         p_fitz = torch.argmax(out_fitz, dim=1).item()
         p_under = torch.argmax(out_under, dim=1).item()
-        p_season = torch.argmax(out_season, dim=1).item()
+        p_season_default = torch.argmax(out_season, dim=1).item()
 
-    return FITZ_MAP[p_fitz], UNDER_MAP[p_under], SEASON_MAP[p_season]
+    # Integration with ColorInsight core for highly accurate season prediction on masked skin.
+    try:
+        from src.services.colorinsight_service import predict_season_colorinsight
+        p_season = predict_season_colorinsight(img)
+    except Exception as e:
+        print(f"Error using Colorinsight: {e}")
+        p_season = p_season_default
+
+    return FITZ_MAP.get(p_fitz, "Unknown"), UNDER_MAP.get(p_under, "Unknown"), SEASON_MAP.get(p_season, "Unknown")

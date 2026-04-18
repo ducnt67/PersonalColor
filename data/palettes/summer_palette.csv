@@ -1,0 +1,151 @@
+Color,Color Name,hexadecimal value,Red,Green,Blue,Season
+air_superiority_blue,Air Superiority Blue,#72a0c1,114,160,193,Summer
+alice_blue,Alice Blue,#f0f8ff,240,248,255,Summer
+amethyst,Amethyst,#96c,153,102,204,Summer
+anti_flash_white,Anti-Flash White,#f2f3f4,242,243,244,Summer
+aqua,Aqua,#0ff,0,255,255,Summer
+aquamarine,Aquamarine,#7fffd4,127,255,212,Summer
+ash_grey,Ash Grey,#b2beb5,178,190,181,Summer
+azure_mist_web,Azure Mist/Web,#f0ffff,240,255,255,Summer
+baby_blue,Baby Blue,#89cff0,137,207,240,Summer
+baby_blue_eyes,Baby Blue Eyes,#a1caf1,161,202,241,Summer
+ball_blue,Ball Blue,#21abcd,33,171,205,Summer
+beau_blue,Beau Blue,#bcd4e6,188,212,230,Summer
+bleu_de_france,Bleu De France,#318ce7,49,140,231,Summer
+blizzard_blue,Blizzard Blue,#ace5ee,172,229,238,Summer
+blue_bell,Blue Bell,#a2a2d0,162,162,208,Summer
+blue_crayola,Blue (Crayola),#1f75fe,31,117,254,Summer
+blue_gray,Blue Gray,#69c,102,153,204,Summer
+blue_violet,Blue-Violet,#8a2be2,138,43,226,Summer
+bright_cerulean,Bright Cerulean,#1dacd6,29,172,214,Summer
+bright_lavender,Bright Lavender,#bf94e4,191,148,228,Summer
+bright_turquoise,Bright Turquoise,#08e8de,8,232,222,Summer
+bright_ube,Bright Ube,#d19fe8,209,159,232,Summer
+brilliant_lavender,Brilliant Lavender,#f4bbff,244,187,255,Summer
+bubbles,Bubbles,#e7feff,231,254,255,Summer
+cadet_blue,Cadet Blue,#5f9ea0,95,158,160,Summer
+cadet_grey,Cadet Grey,#91a3b0,145,163,176,Summer
+cambridge_blue,Cambridge Blue,#a3c1ad,163,193,173,Summer
+capri,Capri,#00bfff,0,191,255,Summer
+carolina_blue,Carolina Blue,#99badd,153,186,221,Summer
+ceil,Ceil,#92a1cf,146,161,207,Summer
+celadon,Celadon,#ace1af,172,225,175,Summer
+celeste_colour,Celeste (Colour),#b2ffff,178,255,255,Summer
+celestial_blue,Celestial Blue,#4997d0,73,151,208,Summer
+cerulean_frost,Cerulean Frost,#6d9bc3,109,155,195,Summer
+columbia_blue,Columbia Blue,#9bddff,155,221,255,Summer
+cool_grey,Cool Grey,#8c92ac,140,146,172,Summer
+cornflower_blue,Cornflower Blue,#6495ed,100,149,237,Summer
+cyan,Cyan,#0ff,0,255,255,Summer
+cyan_process,Cyan (Process),#00b7eb,0,183,235,Summer
+dark_gray,Dark Gray,#a9a9a9,169,169,169,Summer
+dark_orchid,Dark Orchid,#9932cc,153,50,204,Summer
+dark_pastel_blue,Dark Pastel Blue,#779ecb,119,158,203,Summer
+dark_pastel_purple,Dark Pastel Purple,#966fd6,150,111,214,Summer
+dark_sea_green,Dark Sea Green,#8fbc8f,143,188,143,Summer
+dark_turquoise,Dark Turquoise,#00ced1,0,206,209,Summer
+deep_fuchsia,Deep Fuchsia,#c154c1,193,84,193,Summer
+deep_lilac,Deep Lilac,#95b,153,85,187,Summer
+deep_magenta,Deep Magenta,#c0c,204,0,204,Summer
+deep_sky_blue,Deep Sky Blue,#00bfff,0,191,255,Summer
+dodger_blue,Dodger Blue,#1e90ff,30,144,255,Summer
+electric_blue,Electric Blue,#7df9ff,125,249,255,Summer
+electric_cyan,Electric Cyan,#0ff,0,255,255,Summer
+electric_lavender,Electric Lavender,#f4bbff,244,187,255,Summer
+electric_purple,Electric Purple,#bf00ff,191,0,255,Summer
+eton_blue,Eton Blue,#96c8a2,150,200,162,Summer
+fuchsia,Fuchsia,#f0f,255,0,255,Summer
+fuchsia_crayola,Fuchsia (Crayola),#c154c1,193,84,193,Summer
+fuchsia_pink,Fuchsia Pink,#f7f,255,119,255,Summer
+gainsboro,Gainsboro,#dcdcdc,220,220,220,Summer
+ghost_white,Ghost White,#f8f8ff,248,248,255,Summer
+glaucous,Glaucous,#6082b6,96,130,182,Summer
+glitter,Glitter,#e6e8fa,230,232,250,Summer
+gray_x11_gray,Gray (X11 Gray),#bebebe,190,190,190,Summer
+heliotrope,Heliotrope,#df73ff,223,115,255,Summer
+honeydew,Honeydew,#f0fff0,240,255,240,Summer
+iceberg,Iceberg,#71a6d2,113,166,210,Summer
+languid_lavender,Languid Lavender,#d6cadd,214,202,221,Summer
+lavender_blue,Lavender Blue,#ccf,204,204,255,Summer
+lavender_floral,Lavender (Floral),#b57edc,181,126,220,Summer
+lavender_gray,Lavender Gray,#c4c3d0,196,195,208,Summer
+lavender_indigo,Lavender Indigo,#9457eb,148,87,235,Summer
+lavender_magenta,Lavender Magenta,#ee82ee,238,130,238,Summer
+lavender_mist,Lavender Mist,#e6e6fa,230,230,250,Summer
+lavender_purple,Lavender Purple,#967bb6,150,123,182,Summer
+lavender_web,Lavender (Web),#e6e6fa,230,230,250,Summer
+light_blue,Light Blue,#add8e6,173,216,230,Summer
+light_cornflower_blue,Light Cornflower Blue,#93ccea,147,204,234,Summer
+light_cyan,Light Cyan,#e0ffff,224,255,255,Summer
+light_gray,Light Gray,#d3d3d3,211,211,211,Summer
+light_green,Light Green,#90ee90,144,238,144,Summer
+light_pastel_purple,Light Pastel Purple,#b19cd9,177,156,217,Summer
+light_sky_blue,Light Sky Blue,#87cefa,135,206,250,Summer
+light_slate_gray,Light Slate Gray,#789,119,136,153,Summer
+lilac,Lilac,#c8a2c8,200,162,200,Summer
+little_boy_blue,Little Boy Blue,#6ca0dc,108,160,220,Summer
+magenta,Magenta,#f0f,255,0,255,Summer
+magic_mint,Magic Mint,#aaf0d1,170,240,209,Summer
+magnolia,Magnolia,#f8f4ff,248,244,255,Summer
+manatee,Manatee,#979aaa,151,154,170,Summer
+mauve,Mauve,#e0b0ff,224,176,255,Summer
+maya_blue,Maya Blue,#73c2fb,115,194,251,Summer
+medium_aquamarine,Medium Aquamarine,#6da,102,221,170,Summer
+medium_lavender_magenta,Medium Lavender Magenta,#dda0dd,221,160,221,Summer
+medium_orchid,Medium Orchid,#ba55d3,186,85,211,Summer
+medium_purple,Medium Purple,#9370db,147,112,219,Summer
+medium_slate_blue,Medium Slate Blue,#7b68ee,123,104,238,Summer
+medium_spring_green,Medium Spring Green,#00fa9a,0,250,154,Summer
+medium_turquoise,Medium Turquoise,#48d1cc,72,209,204,Summer
+mint_cream,Mint Cream,#f5fffa,245,255,250,Summer
+mint_green,Mint Green,#98ff98,152,255,152,Summer
+moonstone_blue,Moonstone Blue,#73a9c2,115,169,194,Summer
+moss_green,Moss Green,#addfad,173,223,173,Summer
+non_photo_blue,Non-Photo Blue,#a4dded,164,221,237,Summer
+pale_aqua,Pale Aqua,#bcd4e6,188,212,230,Summer
+pale_blue,Pale Blue,#afeeee,175,238,238,Summer
+pale_cerulean,Pale Cerulean,#9bc4e2,155,196,226,Summer
+pale_cornflower_blue,Pale Cornflower Blue,#abcdef,171,205,239,Summer
+pale_green,Pale Green,#98fb98,152,251,152,Summer
+pale_lavender,Pale Lavender,#dcd0ff,220,208,255,Summer
+pale_plum,Pale Plum,#dda0dd,221,160,221,Summer
+pale_robin_egg_blue,Pale Robin Egg Blue,#96ded1,150,222,209,Summer
+pastel_blue,Pastel Blue,#aec6cf,174,198,207,Summer
+pastel_green,Pastel Green,#7d7,119,221,119,Summer
+pastel_purple,Pastel Purple,#b39eb5,179,158,181,Summer
+pearl_aqua,Pearl Aqua,#88d8c0,136,216,192,Summer
+periwinkle,Periwinkle,#ccf,204,204,255,Summer
+phlox,Phlox,#df00ff,223,0,255,Summer
+plum_web,Plum (Web),#dda0dd,221,160,221,Summer
+powder_blue_web,Powder Blue (Web),#b0e0e6,176,224,230,Summer
+psychedelic_purple,Psychedelic Purple,#df00ff,223,0,255,Summer
+purple_mountain_majesty,Purple Mountain Majesty,#9678b6,150,120,182,Summer
+purple_x11,Purple (X11),#a020f0,160,32,240,Summer
+rich_brilliant_lavender,Rich Brilliant Lavender,#f1a7fe,241,167,254,Summer
+rich_lavender,Rich Lavender,#a76bcf,167,107,207,Summer
+rich_lilac,Rich Lilac,#b666d2,182,102,210,Summer
+robin_egg_blue,Robin Egg Blue,#0cc,0,204,204,Summer
+screamin_green,Screamin' Green,#76ff7a,118,255,122,Summer
+shocking_pink_crayola,Shocking Pink (Crayola),#ff6fff,255,111,255,Summer
+silver,Silver,#c0c0c0,192,192,192,Summer
+sky_blue,Sky Blue,#87ceeb,135,206,235,Summer
+slate_blue,Slate Blue,#6a5acd,106,90,205,Summer
+spiro_disco_ball,Spiro Disco Ball,#0fc0fc,15,192,252,Summer
+thistle,Thistle,#d8bfd8,216,191,216,Summer
+toolbox,Toolbox,#746cc0,116,108,192,Summer
+turquoise,Turquoise,#30d5c8,48,213,200,Summer
+turquoise_blue,Turquoise Blue,#00ffef,0,255,239,Summer
+turquoise_green,Turquoise Green,#a0d6b4,160,214,180,Summer
+ube,Ube,#8878c3,136,120,195,Summer
+ultra_pink,Ultra Pink,#ff6fff,255,111,255,Summer
+ultramarine_blue,Ultramarine Blue,#4166f5,65,102,245,Summer
+united_nations_blue,United Nations Blue,#5b92e5,91,146,229,Summer
+verdigris,Verdigris,#43b3ae,67,179,174,Summer
+veronica,Veronica,#a020f0,160,32,240,Summer
+violet_web,Violet (Web),#ee82ee,238,130,238,Summer
+vivid_violet,Vivid Violet,#9f00ff,159,0,255,Summer
+waterspout,Waterspout,#a4f4f9,164,244,249,Summer
+white,White,#fff,255,255,255,Summer
+white_smoke,White Smoke,#f5f5f5,245,245,245,Summer
+wild_blue_yonder,Wild Blue Yonder,#a2add0,162,173,208,Summer
+wisteria,Wisteria,#c9a0dc,201,160,220,Summer

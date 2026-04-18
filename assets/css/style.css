@@ -1,0 +1,331 @@
+/* Nền tổng thể */
+.stApp {
+    background: linear-gradient(180deg, #fffefe 0%, #fff8fb 45%, #fffefe 100%);
+    color: #111111;
+}
+
+html, body, [class*="css"] {
+    color: #111111;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background: #fff8fb;
+    border-right: 1px solid #f3d7e3;
+    padding-top: 1rem;
+}
+
+[data-testid="stSidebar"] * {
+    color: #111111 !important;
+}
+
+/* Hero */
+.hero-box {
+    background: linear-gradient(135deg, #fffefe 0%, #fff3f8 100%);
+    border: 1px solid #f3d9e3;
+    border-radius: 28px;
+    padding: 34px 36px;
+    margin-bottom: 24px;
+    box-shadow: 0 10px 28px rgba(230, 190, 205, 0.16);
+}
+
+.hero-title {
+    font-size: 2.35rem;
+    font-weight: 800;
+    color: #111111;
+    line-height: 1.2;
+    margin-bottom: 12px;
+}
+
+.hero-subtitle {
+    font-size: 1.06rem;
+    color: #333333;
+    line-height: 1.8;
+    margin-bottom: 18px;
+}
+
+.pill-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 8px;
+}
+
+.pill {
+    background: #ffffff;
+    border: 1px solid #f0d5e0;
+    color: #111111;
+    border-radius: 999px;
+    padding: 10px 16px;
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+/* Tiêu đề khu vực */
+.section-title {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #111111;
+    margin: 10px 0 16px 0;
+}
+
+.sub-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #111111;
+    margin-bottom: 10px;
+}
+
+/* Card mềm */
+.soft-card {
+    background: #ffffff;
+    border: 1px solid #f1dce4;
+    border-radius: 24px;
+    padding: 22px;
+    box-shadow: 0 8px 22px rgba(229, 197, 208, 0.14);
+    height: 100%;
+}
+
+/* Card số liệu */
+.metric-card {
+    background: #ffffff;
+    border: 1px solid #efd8e2;
+    border-radius: 22px;
+    padding: 20px 16px;
+    text-align: center;
+    min-height: 120px;
+    box-shadow: 0 8px 18px rgba(231, 200, 211, 0.12);
+}
+
+.metric-label {
+    font-size: 0.95rem;
+    color: #444444;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.metric-value {
+    font-size: 1.42rem;
+    color: #111111;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+.metric-sub {
+    margin-top: 8px;
+    color: #666666;
+    font-size: 0.88rem;
+}
+
+/* Banner */
+.result-banner {
+    background: #fff6fa;
+    border: 1px solid #f0d9e2;
+    color: #111111;
+    border-radius: 18px;
+    padding: 16px 18px;
+    margin-bottom: 16px;
+    font-weight: 500;
+}
+
+/* Note / tip */
+.beauty-tip {
+    background: #fff9fc;
+    border: 1px solid #f2dde5;
+    border-left: 5px solid #efbfd0;
+    color: #222222;
+    border-radius: 16px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    line-height: 1.7;
+}
+
+.footer-note {
+    background: #ffffff;
+    border: 1px dashed #e8c8d5;
+    border-radius: 16px;
+    color: #333333;
+    padding: 14px 16px;
+    margin-top: 18px;
+}
+
+.small-muted {
+    color: #555555;
+    font-size: 0.94rem;
+    line-height: 1.7;
+}
+
+/* Palette */
+.palette-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 16px;
+    margin-top: 12px;
+}
+
+.palette-card {
+    background: #ffffff;
+    border: 1px solid #f0d9e2;
+    border-radius: 18px;
+    padding: 14px 12px 16px 12px;
+    text-align: center;
+    box-shadow: 0 6px 16px rgba(234, 206, 216, 0.10);
+}
+
+.palette-color {
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    margin: 0 auto 12px auto;
+    border: 3px solid #ffffff;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.10);
+}
+
+.palette-name {
+    font-size: 0.94rem;
+    font-weight: 700;
+    color: #111111;
+    margin-bottom: 4px;
+}
+
+.palette-hex {
+    font-size: 0.82rem;
+    color: #666666;
+}
+
+/* Uploader - Thiết kế nhỏ gọn, tinh tế */
+[data-testid="stFileUploaderDropzone"] {
+    background: #fff8fb !important;
+    border: 2px dashed #ea4c89 !important;
+    border-radius: 16px !important;
+    padding: 30px 20px !important;
+    transition: all 0.3s ease !important;
+}
+
+[data-testid="stFileUploaderDropzone"]:hover {
+    background: #ffeff4 !important;
+}
+
+[data-testid="stFileUploaderDropzone"] section {
+    background: transparent !important;
+}
+
+[data-testid="stFileUploaderDropzone"] svg {
+    fill: #ea4c89 !important;
+    color: #ea4c89 !important;
+}
+
+/* Nút/Dòng chữ bên trong Dragzone */
+[data-testid="stFileUploaderDropzone"] * {
+    color: #333333 !important;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+}
+
+/* Nút Browse files bên trong Uploader */
+[data-testid="stFileUploaderDropzone"] button {
+    background: #ea4c89 !important;
+    color: #ffffff !important;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 0.5rem 1rem !important;
+}
+
+[data-testid="stFileUploaderDropzone"] button:hover {
+    background: #c9356d !important;
+}
+
+/* Ẩn giới hạn dung lượng nếu muốn sạch hơn */
+[data-testid="stFileUploaderDropzone"] small {
+    color: #888888 !important;
+    font-size: 0.85rem !important;
+    font-weight: 400 !important;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 10px;
+    border-bottom: 1px solid #f0dbe3;
+    padding-bottom: 6px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background: #fff9fc !important;
+    color: #111111 !important;
+    border: 1px solid #f0dbe3 !important;
+    border-radius: 14px 14px 0 0 !important;
+    padding: 10px 16px !important;
+    font-weight: 600 !important;
+}
+
+.stTabs [aria-selected="true"] {
+    background: #ffffff !important;
+    color: #111111 !important;
+    border-bottom: 2px solid #e7b7ca !important;
+}
+
+.stTabs [data-baseweb="tab-panel"] {
+    padding-top: 20px;
+}
+
+/* Button */
+.stButton > button {
+    background: #111111 !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 14px !important;
+    padding: 0.65rem 1.15rem !important;
+    font-weight: 700 !important;
+    box-shadow: none !important;
+}
+
+.stButton > button:hover {
+    background: #333333 !important;
+    color: white !important;
+}
+
+/* Selectbox, radio, input */
+.stSelectbox label,
+.stRadio label,
+.stFileUploader label,
+.stCameraInput label {
+    color: #111111 !important;
+    font-weight: 600 !important;
+}
+
+/* Expander nếu có */
+.streamlit-expanderHeader {
+    color: #111111 !important;
+    font-weight: 700 !important;
+}
+
+/* =========================================
+   CUSTOM CAMERA GUIDE OVERLAY
+   ========================================= */
+
+/* Ép Camera lật gương (Mirror) để hiển thị tự nhiên với người dùng */
+[data-testid="stCameraInput"] video {
+    transform: scaleX(-1) !important;
+}
+
+/* Div bọc camera báo hiệu vùng chụp */
+[data-testid="stCameraInput"] > div > div {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+[data-testid="stCameraInput"] > div > div::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 320px; /* To hơn rõ rệt */
+    height: 480px; /* Theo tỉ lệ khuôn mặt */
+    border: 4px dashed rgba(255, 255, 255, 0.9);
+    border-radius: 50%;
+    box-shadow: 0 0 0 9999px rgba(0, 0, 0, 0.4); /* Làm mờ phần xung quanh */
+    pointer-events: none;
+    z-index: 100;
+}

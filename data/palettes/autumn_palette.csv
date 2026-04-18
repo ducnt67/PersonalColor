@@ -1,0 +1,268 @@
+Color,Color Name,hexadecimal value,Red,Green,Blue,Season
+alabama_crimson,Alabama Crimson,#a32638,163,38,56,Autumn
+alizarin_crimson,Alizarin Crimson,#e32636,227,38,54,Autumn
+alloy_orange,Alloy Orange,#c46210,196,98,16,Autumn
+amaranth,Amaranth,#e52b50,229,43,80,Autumn
+amber_sae_ece,Amber (Sae/Ece),#ff7e00,255,126,0,Autumn
+american_rose,American Rose,#ff033e,255,3,62,Autumn
+antique_fuchsia,Antique Fuchsia,#915c83,145,92,131,Autumn
+antique_ruby,Antique Ruby,#841b2d,132,27,45,Autumn
+apple_green,Apple Green,#8db600,141,182,0,Autumn
+army_green,Army Green,#4b5320,75,83,32,Autumn
+auburn,Auburn,#a52a2a,165,42,42,Autumn
+avocado,Avocado,#568203,86,130,3,Autumn
+barn_red,Barn Red,#7c0a02,124,10,2,Autumn
+battleship_grey,Battleship Grey,#848482,132,132,130,Autumn
+bazaar,Bazaar,#98777b,152,119,123,Autumn
+beaver,Beaver,#9f8170,159,129,112,Autumn
+big_dip_o_ruby,Big Dip O’Ruby,#9c2542,156,37,66,Autumn
+bistre,Bistre,#3d2b1f,61,43,31,Autumn
+bittersweet_shimmer,Bittersweet Shimmer,#bf4f51,191,79,81,Autumn
+black_bean,Black Bean,#3d0c02,61,12,2,Autumn
+black_olive,Black Olive,#3b3c36,59,60,54,Autumn
+blast_off_bronze,Blast-Off Bronze,#a57164,165,113,100,Autumn
+bole,Bole,#79443b,121,68,59,Autumn
+boston_university_red,Boston University Red,#c00,204,0,0,Autumn
+boysenberry,Boysenberry,#873260,135,50,96,Autumn
+brick_red,Brick Red,#cb4154,203,65,84,Autumn
+bright_green,Bright Green,#6f0,102,255,0,Autumn
+bright_maroon,Bright Maroon,#c32148,195,33,72,Autumn
+bright_pink,Bright Pink,#ff007f,255,0,127,Autumn
+bronze,Bronze,#cd7f32,205,127,50,Autumn
+brown_traditional,Brown (Traditional),#964b00,150,75,0,Autumn
+brown_web,Brown (Web),#a52a2a,165,42,42,Autumn
+bulgarian_rose,Bulgarian Rose,#480607,72,6,7,Autumn
+burgundy,Burgundy,#800020,128,0,32,Autumn
+burnt_orange,Burnt Orange,#c50,204,85,0,Autumn
+burnt_umber,Burnt Umber,#8a3324,138,51,36,Autumn
+byzantium,Byzantium,#702963,112,41,99,Autumn
+cadmium_red,Cadmium Red,#e30022,227,0,34,Autumn
+caf_au_lait,Café Au Lait,#a67b5b,166,123,91,Autumn
+caf_noir,Café Noir,#4b3621,75,54,33,Autumn
+camouflage_green,Camouflage Green,#78866b,120,134,107,Autumn
+candy_apple_red,Candy Apple Red,#ff0800,255,8,0,Autumn
+caput_mortuum,Caput Mortuum,#592720,89,39,32,Autumn
+cardinal,Cardinal,#c41e3a,196,30,58,Autumn
+carmine,Carmine,#960018,150,0,24,Autumn
+carmine_m_p,Carmine (M&P),#d70040,215,0,64,Autumn
+carmine_pink,Carmine Pink,#eb4c42,235,76,66,Autumn
+carmine_red,Carmine Red,#ff0038,255,0,56,Autumn
+carnelian,Carnelian,#b31b1b,179,27,27,Autumn
+cerise,Cerise,#de3163,222,49,99,Autumn
+cg_red,Cg Red,#e03c31,224,60,49,Autumn
+chamoisee,Chamoisee,#a0785a,160,120,90,Autumn
+chartreuse_web,Chartreuse (Web),#7fff00,127,255,0,Autumn
+cherry,Cherry,#de3163,222,49,99,Autumn
+chestnut,Chestnut,#cd5c5c,205,92,92,Autumn
+china_rose,China Rose,#a8516e,168,81,110,Autumn
+chinese_red,Chinese Red,#aa381e,170,56,30,Autumn
+chocolate_traditional,Chocolate (Traditional),#7b3f00,123,63,0,Autumn
+chocolate_web,Chocolate (Web),#d2691e,210,105,30,Autumn
+cinnabar,Cinnabar,#e34234,227,66,52,Autumn
+cinnamon,Cinnamon,#d2691e,210,105,30,Autumn
+cocoa_brown,Cocoa Brown,#d2691e,210,105,30,Autumn
+coffee,Coffee,#6f4e37,111,78,55,Autumn
+copper,Copper,#b87333,184,115,51,Autumn
+copper_penny,Copper Penny,#ad6f69,173,111,105,Autumn
+copper_red,Copper Red,#cb6d51,203,109,81,Autumn
+copper_rose,Copper Rose,#966,153,102,102,Autumn
+coquelicot,Coquelicot,#ff3800,255,56,0,Autumn
+coral_red,Coral Red,#ff4040,255,64,64,Autumn
+cordovan,Cordovan,#893f45,137,63,69,Autumn
+cornell_red,Cornell Red,#b31b1b,179,27,27,Autumn
+crimson,Crimson,#dc143c,220,20,60,Autumn
+crimson_glory,Crimson Glory,#be0032,190,0,50,Autumn
+dark_brown,Dark Brown,#654321,101,67,33,Autumn
+dark_byzantium,Dark Byzantium,#5d3954,93,57,84,Autumn
+dark_candy_apple_red,Dark Candy Apple Red,#a40000,164,0,0,Autumn
+dark_chestnut,Dark Chestnut,#986960,152,105,96,Autumn
+dark_coral,Dark Coral,#cd5b45,205,91,69,Autumn
+dark_goldenrod,Dark Goldenrod,#b8860b,184,134,11,Autumn
+dark_lava,Dark Lava,#483c32,72,60,50,Autumn
+dark_olive_green,Dark Olive Green,#556b2f,85,107,47,Autumn
+dark_orange,Dark Orange,#ff8c00,255,140,0,Autumn
+dark_pastel_red,Dark Pastel Red,#c23b22,194,59,34,Autumn
+dark_raspberry,Dark Raspberry,#872657,135,38,87,Autumn
+dark_red,Dark Red,#8b0000,139,0,0,Autumn
+dark_scarlet,Dark Scarlet,#560319,86,3,25,Autumn
+dark_sienna,Dark Sienna,#3c1414,60,20,20,Autumn
+dark_tan,Dark Tan,#918151,145,129,81,Autumn
+dark_taupe,Dark Taupe,#483c32,72,60,50,Autumn
+dark_terra_cotta,Dark Terra Cotta,#cc4e5c,204,78,92,Autumn
+dark_yellow,Dark Yellow,#9b870c,155,135,12,Autumn
+debian_red,Debian Red,#d70a53,215,10,83,Autumn
+deep_carmine,Deep Carmine,#a9203e,169,32,62,Autumn
+deep_carmine_pink,Deep Carmine Pink,#ef3038,239,48,56,Autumn
+deep_carrot_orange,Deep Carrot Orange,#e9692c,233,105,44,Autumn
+deep_chestnut,Deep Chestnut,#b94e48,185,78,72,Autumn
+deep_coffee,Deep Coffee,#704241,112,66,65,Autumn
+deep_ruby,Deep Ruby,#843f5b,132,63,91,Autumn
+deep_tuscan_red,Deep Tuscan Red,#66424d,102,66,77,Autumn
+dogwood_rose,Dogwood Rose,#d71868,215,24,104,Autumn
+drab,Drab,#967117,150,113,23,Autumn
+ebony,Ebony,#555d50,85,93,80,Autumn
+eggplant,Eggplant,#614051,97,64,81,Autumn
+electric_crimson,Electric Crimson,#ff003f,255,0,63,Autumn
+falu_red,Falu Red,#801818,128,24,24,Autumn
+fandango,Fandango,#b53389,181,51,137,Autumn
+fern_green,Fern Green,#4f7942,79,121,66,Autumn
+ferrari_red,Ferrari Red,#ff2800,255,40,0,Autumn
+field_drab,Field Drab,#6c541e,108,84,30,Autumn
+fire_engine_red,Fire Engine Red,#ce2029,206,32,41,Autumn
+firebrick,Firebrick,#b22222,178,34,34,Autumn
+flame,Flame,#e25822,226,88,34,Autumn
+folly,Folly,#ff004f,255,0,79,Autumn
+french_beige,French Beige,#a67b5b,166,123,91,Autumn
+french_raspberry,French Raspberry,#c72c48,199,44,72,Autumn
+fuchsia_rose,Fuchsia Rose,#c74375,199,67,117,Autumn
+fulvous,Fulvous,#e48400,228,132,0,Autumn
+gamboge,Gamboge,#e49b0f,228,155,15,Autumn
+ginger,Ginger,#b06500,176,101,0,Autumn
+golden_brown,Golden Brown,#996515,153,101,21,Autumn
+gray_asparagus,Gray-Asparagus,#465945,70,89,69,Autumn
+green_ryb,Green (Ryb),#66b032,102,176,50,Autumn
+halay_be,Halayà úBe,#663854,102,56,84,Autumn
+harlequin,Harlequin,#3fff00,63,255,0,Autumn
+harvard_crimson,Harvard Crimson,#c90016,201,0,22,Autumn
+harvest_gold,Harvest Gold,#da9100,218,145,0,Autumn
+heart_gold,Heart Gold,#808000,128,128,0,Autumn
+india_green,India Green,#138808,19,136,8,Autumn
+indian_red,Indian Red,#cd5c5c,205,92,92,Autumn
+international_orange_aerospace,International Orange (Aerospace),#ff4f00,255,79,0,Autumn
+international_orange_engineering,International Orange (Engineering),#ba160c,186,22,12,Autumn
+international_orange_golden_gate_bridge,International Orange (Golden Gate Bridge),#c0362c,192,54,44,Autumn
+jasper,Jasper,#d73b3e,215,59,62,Autumn
+jazzberry_jam,Jazzberry Jam,#a50b5e,165,11,94,Autumn
+kelly_green,Kelly Green,#4cbb17,76,187,23,Autumn
+kenyan_copper,Kenyan Copper,#7c1c05,124,28,5,Autumn
+ku_crimson,Ku Crimson,#e8000d,232,0,13,Autumn
+lava,Lava,#cf1020,207,16,32,Autumn
+lawn_green,Lawn Green,#7cfc00,124,252,0,Autumn
+licorice,Licorice,#1a1110,26,17,16,Autumn
+light_brown,Light Brown,#b5651d,181,101,29,Autumn
+limerick,Limerick,#9dc209,157,194,9,Autumn
+lincoln_green,Lincoln Green,#195905,25,89,5,Autumn
+liver,Liver,#534b4f,83,75,79,Autumn
+lust,Lust,#e62020,230,32,32,Autumn
+magenta_dye,Magenta (Dye),#ca1f7b,202,31,123,Autumn
+magenta_process,Magenta (Process),#ff0090,255,0,144,Autumn
+mahogany,Mahogany,#c04000,192,64,0,Autumn
+mardi_gras,Mardi Gras,#880085,136,0,133,Autumn
+maroon_crayola,Maroon (Crayola),#c32148,195,33,72,Autumn
+maroon_html_css,Maroon (Html/Css),#800000,128,0,0,Autumn
+maroon_x11,Maroon (X11),#b03060,176,48,96,Autumn
+mauve_taupe,Mauve Taupe,#915f6d,145,95,109,Autumn
+medium_candy_apple_red,Medium Candy Apple Red,#e2062c,226,6,44,Autumn
+medium_carmine,Medium Carmine,#af4035,175,64,53,Autumn
+medium_red_violet,Medium Red-Violet,#bb3385,187,51,133,Autumn
+medium_ruby,Medium Ruby,#aa4069,170,64,105,Autumn
+medium_taupe,Medium Taupe,#674c47,103,76,71,Autumn
+medium_tuscan_red,Medium Tuscan Red,#79443b,121,68,59,Autumn
+medium_vermilion,Medium Vermilion,#d9603b,217,96,59,Autumn
+medium_violet_red,Medium Violet-Red,#c71585,199,21,133,Autumn
+mode_beige,Mode Beige,#967117,150,113,23,Autumn
+mordant_red_19,Mordant Red 19,#ae0c00,174,12,0,Autumn
+myrtle,Myrtle,#21421e,33,66,30,Autumn
+napier_green,Napier Green,#2a8000,42,128,0,Autumn
+neon_green,Neon Green,#39ff14,57,255,20,Autumn
+ochre,Ochre,#c72,204,119,34,Autumn
+old_lavender,Old Lavender,#796878,121,104,120,Autumn
+old_mauve,Old Mauve,#673147,103,49,71,Autumn
+olive,Olive,#808000,128,128,0,Autumn
+olive_drab_7,Olive Drab #7,#3c341f,60,52,31,Autumn
+olive_drab_web_olive_drab_3,Olive Drab (Web) (Olive Drab #3),#6b8e23,107,142,35,Autumn
+orange_color_wheel,Orange (Color Wheel),#ff7f00,255,127,0,Autumn
+orange_red,Orange-Red,#ff4500,255,69,0,Autumn
+otter_brown,Otter Brown,#654321,101,67,33,Autumn
+ou_crimson_red,Ou Crimson Red,#900,153,0,0,Autumn
+palatinate_purple,Palatinate Purple,#682860,104,40,96,Autumn
+pale_brown,Pale Brown,#987654,152,118,84,Autumn
+pale_carmine,Pale Carmine,#af4035,175,64,53,Autumn
+pansy_purple,Pansy Purple,#78184a,120,24,74,Autumn
+pastel_brown,Pastel Brown,#836953,131,105,83,Autumn
+persian_plum,Persian Plum,#701c1c,112,28,28,Autumn
+persian_red,Persian Red,#c33,204,51,51,Autumn
+persimmon,Persimmon,#ec5800,236,88,0,Autumn
+plum_traditional,Plum (Traditional),#8e4585,142,69,133,Autumn
+portland_orange,Portland Orange,#ff5a36,255,90,54,Autumn
+princeton_orange,Princeton Orange,#ff8f00,255,143,0,Autumn
+prune,Prune,#701c1c,112,28,28,Autumn
+pumpkin,Pumpkin,#ff7518,255,117,24,Autumn
+purple_taupe,Purple Taupe,#50404d,80,64,77,Autumn
+quartz,Quartz,#51484f,81,72,79,Autumn
+raspberry,Raspberry,#e30b5d,227,11,93,Autumn
+raspberry_glace,Raspberry Glace,#915f6d,145,95,109,Autumn
+raspberry_rose,Raspberry Rose,#b3446c,179,68,108,Autumn
+raw_umber,Raw Umber,#826644,130,102,68,Autumn
+razzmatazz,Razzmatazz,#e3256b,227,37,107,Autumn
+red,Red,#f00,255,0,0,Autumn
+red_brown,Red-Brown,#a52a2a,165,42,42,Autumn
+red_devil,Red Devil,#860111,134,1,17,Autumn
+red_munsell,Red (Munsell),#f2003c,242,0,60,Autumn
+red_ncs,Red (Ncs),#c40233,196,2,51,Autumn
+red_pigment,Red (Pigment),#ed1c24,237,28,36,Autumn
+red_ryb,Red (Ryb),#fe2712,254,39,18,Autumn
+red_violet,Red-Violet,#c71585,199,21,133,Autumn
+redwood,Redwood,#ab4e52,171,78,82,Autumn
+rich_carmine,Rich Carmine,#d70040,215,0,64,Autumn
+rich_maroon,Rich Maroon,#b03060,176,48,96,Autumn
+rifle_green,Rifle Green,#414833,65,72,51,Autumn
+rose,Rose,#ff007f,255,0,127,Autumn
+rose_ebony,Rose Ebony,#674846,103,72,70,Autumn
+rose_madder,Rose Madder,#e32636,227,38,54,Autumn
+rose_taupe,Rose Taupe,#905d5d,144,93,93,Autumn
+rose_vale,Rose Vale,#ab4e52,171,78,82,Autumn
+rosewood,Rosewood,#65000b,101,0,11,Autumn
+rosso_corsa,Rosso Corsa,#d40000,212,0,0,Autumn
+royal_fuchsia,Royal Fuchsia,#ca2c92,202,44,146,Autumn
+rubine_red,Rubine Red,#d10056,209,0,86,Autumn
+ruby,Ruby,#e0115f,224,17,95,Autumn
+ruby_red,Ruby Red,#9b111e,155,17,30,Autumn
+ruddy,Ruddy,#ff0028,255,0,40,Autumn
+ruddy_brown,Ruddy Brown,#bb6528,187,101,40,Autumn
+rufous,Rufous,#a81c07,168,28,7,Autumn
+russet,Russet,#80461b,128,70,27,Autumn
+rust,Rust,#b7410e,183,65,14,Autumn
+rusty_red,Rusty Red,#da2c43,218,44,67,Autumn
+saddle_brown,Saddle Brown,#8b4513,139,69,19,Autumn
+safety_orange_blaze_orange,Safety Orange (Blaze Orange),#ff6700,255,103,0,Autumn
+sand_dune,Sand Dune,#967117,150,113,23,Autumn
+sandy_taupe,Sandy Taupe,#967117,150,113,23,Autumn
+sangria,Sangria,#92000a,146,0,10,Autumn
+sap_green,Sap Green,#507d2a,80,125,42,Autumn
+scarlet,Scarlet,#ff2400,255,36,0,Autumn
+scarlet_crayola,Scarlet (Crayola),#fd0e35,253,14,53,Autumn
+seal_brown,Seal Brown,#321414,50,20,20,Autumn
+sepia,Sepia,#704214,112,66,20,Autumn
+shadow,Shadow,#8a795d,138,121,93,Autumn
+sienna,Sienna,#882d17,136,45,23,Autumn
+sinopia,Sinopia,#cb410b,203,65,11,Autumn
+smokey_topaz,Smokey Topaz,#933d41,147,61,65,Autumn
+smoky_black,Smoky Black,#100c08,16,12,8,Autumn
+stizza,Stizza,#900,153,0,0,Autumn
+tangelo,Tangelo,#f94d00,249,77,0,Autumn
+tangerine,Tangerine,#f28500,242,133,0,Autumn
+taupe,Taupe,#483c32,72,60,50,Autumn
+telemagenta,Telemagenta,#cf3476,207,52,118,Autumn
+tenn_tawny,Tenné (Tawny),#cd5700,205,87,0,Autumn
+tractor_red,Tractor Red,#fd0e35,253,14,53,Autumn
+tuscan_red,Tuscan Red,#7c4848,124,72,72,Autumn
+twilight_lavender,Twilight Lavender,#8a496b,138,73,107,Autumn
+tyrian_purple,Tyrian Purple,#66023c,102,2,60,Autumn
+ua_red,Ua Red,#d9004c,217,0,76,Autumn
+umber,Umber,#635147,99,81,71,Autumn
+university_of_california_gold,University Of California Gold,#b78727,183,135,39,Autumn
+up_maroon,Up Maroon,#7b1113,123,17,19,Autumn
+upsdell_red,Upsdell Red,#ae2029,174,32,41,Autumn
+usc_cardinal,Usc Cardinal,#900,153,0,0,Autumn
+utah_crimson,Utah Crimson,#d3003f,211,0,63,Autumn
+venetian_red,Venetian Red,#c80815,200,8,21,Autumn
+vermilion_cinnabar,Vermilion (Cinnabar),#e34234,227,66,52,Autumn
+vermilion_plochere,Vermilion (Plochere),#d9603b,217,96,59,Autumn
+vivid_auburn,Vivid Auburn,#922724,146,39,36,Autumn
+vivid_burgundy,Vivid Burgundy,#9f1d35,159,29,53,Autumn
+vivid_cerise,Vivid Cerise,#da1d81,218,29,129,Autumn
+wenge,Wenge,#645452,100,84,82,Autumn
+wine,Wine,#722f37,114,47,55,Autumn
+wine_dregs,Wine Dregs,#673147,103,49,71,Autumn
+zinnwaldite_brown,Zinnwaldite Brown,#2c1608,44,22,8,Autumn

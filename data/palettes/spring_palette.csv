@@ -1,0 +1,276 @@
+Color,Color Name,hexadecimal value,Red,Green,Blue,Season
+almond,Almond,#efdecd,239,222,205,Spring
+amber,Amber,#ffbf00,255,191,0,Spring
+android_green,Android Green,#a4c639,164,198,57,Spring
+antique_brass,Antique Brass,#cd9575,205,149,117,Spring
+antique_white,Antique White,#faebd7,250,235,215,Spring
+apricot,Apricot,#fbceb1,251,206,177,Spring
+arylide_yellow,Arylide Yellow,#e9d66b,233,214,107,Spring
+asparagus,Asparagus,#87a96b,135,169,107,Spring
+atomic_tangerine,Atomic Tangerine,#f96,255,153,102,Spring
+aureolin,Aureolin,#fdee00,253,238,0,Spring
+baby_pink,Baby Pink,#f4c2c2,244,194,194,Spring
+banana_mania,Banana Mania,#fae7b5,250,231,181,Spring
+banana_yellow,Banana Yellow,#ffe135,255,225,53,Spring
+beige,Beige,#f5f5dc,245,245,220,Spring
+bisque,Bisque,#ffe4c4,255,228,196,Spring
+bittersweet,Bittersweet,#fe6f5e,254,111,94,Spring
+blanched_almond,Blanched Almond,#ffebcd,255,235,205,Spring
+blond,Blond,#faf0be,250,240,190,Spring
+blush,Blush,#de5d83,222,93,131,Spring
+bone,Bone,#e3dac9,227,218,201,Spring
+brass,Brass,#b5a642,181,166,66,Spring
+brilliant_rose,Brilliant Rose,#ff55a3,255,85,163,Spring
+brink_pink,Brink Pink,#fb607f,251,96,127,Spring
+bubble_gum,Bubble Gum,#ffc1cc,255,193,204,Spring
+buff,Buff,#f0dc82,240,220,130,Spring
+burlywood,Burlywood,#deb887,222,184,135,Spring
+burnt_sienna,Burnt Sienna,#e97451,233,116,81,Spring
+byzantine,Byzantine,#bd33a4,189,51,164,Spring
+cadmium_orange,Cadmium Orange,#ed872d,237,135,45,Spring
+cadmium_yellow,Cadmium Yellow,#fff600,255,246,0,Spring
+camel,Camel,#c19a6b,193,154,107,Spring
+cameo_pink,Cameo Pink,#efbbcc,239,187,204,Spring
+canary_yellow,Canary Yellow,#ffef00,255,239,0,Spring
+candy_pink,Candy Pink,#e4717a,228,113,122,Spring
+carnation_pink,Carnation Pink,#ffa6c9,255,166,201,Spring
+carrot_orange,Carrot Orange,#ed9121,237,145,33,Spring
+cerise_pink,Cerise Pink,#ec3b83,236,59,131,Spring
+champagne,Champagne,#fad6a5,250,214,165,Spring
+charm_pink,Charm Pink,#e68fac,230,143,172,Spring
+chartreuse_traditional,Chartreuse (Traditional),#dfff00,223,255,0,Spring
+cherry_blossom_pink,Cherry Blossom Pink,#ffb7c5,255,183,197,Spring
+china_pink,China Pink,#de6fa1,222,111,161,Spring
+chrome_yellow,Chrome Yellow,#ffa700,255,167,0,Spring
+cinereous,Cinereous,#98817b,152,129,123,Spring
+citrine,Citrine,#e4d00a,228,208,10,Spring
+classic_rose,Classic Rose,#fbcce7,251,204,231,Spring
+congo_pink,Congo Pink,#f88379,248,131,121,Spring
+copper_crayola,Copper (Crayola),#da8a67,218,138,103,Spring
+coral,Coral,#ff7f50,255,127,80,Spring
+coral_pink,Coral Pink,#f88379,248,131,121,Spring
+corn,Corn,#fbec5d,251,236,93,Spring
+cornsilk,Cornsilk,#fff8dc,255,248,220,Spring
+cosmic_latte,Cosmic Latte,#fff8e7,255,248,231,Spring
+cotton_candy,Cotton Candy,#ffbcd9,255,188,217,Spring
+cream,Cream,#fffdd0,255,253,208,Spring
+daffodil,Daffodil,#ffff31,255,255,49,Spring
+dandelion,Dandelion,#f0e130,240,225,48,Spring
+dark_khaki,Dark Khaki,#bdb76b,189,183,107,Spring
+dark_pink,Dark Pink,#e75480,231,84,128,Spring
+dark_salmon,Dark Salmon,#e9967a,233,150,122,Spring
+dark_tangerine,Dark Tangerine,#ffa812,255,168,18,Spring
+deep_cerise,Deep Cerise,#da3287,218,50,135,Spring
+deep_champagne,Deep Champagne,#fad6a5,250,214,165,Spring
+deep_peach,Deep Peach,#ffcba4,255,203,164,Spring
+deep_pink,Deep Pink,#ff1493,255,20,147,Spring
+deep_saffron,Deep Saffron,#f93,255,153,51,Spring
+desert,Desert,#c19a6b,193,154,107,Spring
+desert_sand,Desert Sand,#edc9af,237,201,175,Spring
+dollar_bill,Dollar Bill,#85bb65,133,187,101,Spring
+earth_yellow,Earth Yellow,#e1a95f,225,169,95,Spring
+ecru,Ecru,#c2b280,194,178,128,Spring
+eggshell,Eggshell,#f0ead6,240,234,214,Spring
+electric_lime,Electric Lime,#cf0,204,255,0,Spring
+electric_yellow,Electric Yellow,#ff0,255,255,0,Spring
+english_lavender,English Lavender,#b48395,180,131,149,Spring
+fallow,Fallow,#c19a6b,193,154,107,Spring
+fashion_fuchsia,Fashion Fuchsia,#f400a1,244,0,161,Spring
+fawn,Fawn,#e5aa70,229,170,112,Spring
+flamingo_pink,Flamingo Pink,#fc8eac,252,142,172,Spring
+flavescent,Flavescent,#f7e98e,247,233,142,Spring
+flax,Flax,#eedc82,238,220,130,Spring
+floral_white,Floral White,#fffaf0,255,250,240,Spring
+fluorescent_orange,Fluorescent Orange,#ffbf00,255,191,0,Spring
+fluorescent_pink,Fluorescent Pink,#ff1493,255,20,147,Spring
+fluorescent_yellow,Fluorescent Yellow,#cf0,204,255,0,Spring
+french_lime,French Lime,#cf0,204,255,0,Spring
+french_rose,French Rose,#f64a8a,246,74,138,Spring
+fuzzy_wuzzy,Fuzzy Wuzzy,#c66,204,102,102,Spring
+gold_metallic,Gold (Metallic),#d4af37,212,175,55,Spring
+gold_web_golden,Gold (Web) (Golden),#ffd700,255,215,0,Spring
+golden_poppy,Golden Poppy,#fcc200,252,194,0,Spring
+golden_yellow,Golden Yellow,#ffdf00,255,223,0,Spring
+goldenrod,Goldenrod,#daa520,218,165,32,Spring
+granny_smith_apple,Granny Smith Apple,#a8e4a0,168,228,160,Spring
+green_yellow,Green-Yellow,#adff2f,173,255,47,Spring
+grullo,Grullo,#a99a86,169,154,134,Spring
+hansa_yellow,Hansa Yellow,#e9d66b,233,214,107,Spring
+hollywood_cerise,Hollywood Cerise,#f400a1,244,0,161,Spring
+hot_magenta,Hot Magenta,#ff1dce,255,29,206,Spring
+hot_pink,Hot Pink,#ff69b4,255,105,180,Spring
+icterine,Icterine,#fcf75e,252,247,94,Spring
+inchworm,Inchworm,#b2ec5d,178,236,93,Spring
+indian_yellow,Indian Yellow,#e3a857,227,168,87,Spring
+isabelline,Isabelline,#f4f0ec,244,240,236,Spring
+ivory,Ivory,#fffff0,255,255,240,Spring
+jasmine,Jasmine,#f8de7e,248,222,126,Spring
+jonquil,Jonquil,#fada5e,250,218,94,Spring
+june_bud,June Bud,#bdda57,189,218,87,Spring
+khaki_html_css_khaki,Khaki (Html/Css) (Khaki),#c3b091,195,176,145,Spring
+khaki_x11_light_khaki,Khaki (X11) (Light Khaki),#f0e68c,240,230,140,Spring
+laser_lemon,Laser Lemon,#fefe22,254,254,34,Spring
+laurel_green,Laurel Green,#a9ba9d,169,186,157,Spring
+lavender_blush,Lavender Blush,#fff0f5,255,240,245,Spring
+lavender_pink,Lavender Pink,#fbaed2,251,174,210,Spring
+lavender_rose,Lavender Rose,#fba0e3,251,160,227,Spring
+lemon,Lemon,#fff700,255,247,0,Spring
+lemon_chiffon,Lemon Chiffon,#fffacd,255,250,205,Spring
+lemon_lime,Lemon Lime,#e3ff00,227,255,0,Spring
+light_apricot,Light Apricot,#fdd5b1,253,213,177,Spring
+light_carmine_pink,Light Carmine Pink,#e66771,230,103,113,Spring
+light_coral,Light Coral,#f08080,240,128,128,Spring
+light_crimson,Light Crimson,#f56991,245,105,145,Spring
+light_fuchsia_pink,Light Fuchsia Pink,#f984ef,249,132,239,Spring
+light_goldenrod_yellow,Light Goldenrod Yellow,#fafad2,250,250,210,Spring
+light_khaki,Light Khaki,#f0e68c,240,230,140,Spring
+light_pink,Light Pink,#ffb6c1,255,182,193,Spring
+light_red_ochre,Light Red Ochre,#e97451,233,116,81,Spring
+light_salmon,Light Salmon,#ffa07a,255,160,122,Spring
+light_salmon_pink,Light Salmon Pink,#f99,255,153,153,Spring
+light_taupe,Light Taupe,#b38b6d,179,139,109,Spring
+light_thulian_pink,Light Thulian Pink,#e68fac,230,143,172,Spring
+light_yellow,Light Yellow,#ffffe0,255,255,224,Spring
+lime_color_wheel,Lime (Color Wheel),#bfff00,191,255,0,Spring
+linen,Linen,#faf0e6,250,240,230,Spring
+lion,Lion,#c19a6b,193,154,107,Spring
+maize,Maize,#fbec5d,251,236,93,Spring
+mango_tango,Mango Tango,#ff8243,255,130,67,Spring
+mantis,Mantis,#74c365,116,195,101,Spring
+mauvelous,Mauvelous,#ef98aa,239,152,170,Spring
+meat_brown,Meat Brown,#e5b73b,229,183,59,Spring
+medium_champagne,Medium Champagne,#f3e5ab,243,229,171,Spring
+medium_spring_bud,Medium Spring Bud,#c9dc87,201,220,135,Spring
+mellow_apricot,Mellow Apricot,#f8b878,248,184,120,Spring
+mellow_yellow,Mellow Yellow,#f8de7e,248,222,126,Spring
+melon,Melon,#fdbcb4,253,188,180,Spring
+mikado_yellow,Mikado Yellow,#ffc40c,255,196,12,Spring
+misty_rose,Misty Rose,#ffe4e1,255,228,225,Spring
+moccasin,Moccasin,#faebd7,250,235,215,Spring
+mountbatten_pink,Mountbatten Pink,#997a8d,153,122,141,Spring
+mulberry,Mulberry,#c54b8c,197,75,140,Spring
+mustard,Mustard,#ffdb58,255,219,88,Spring
+nadeshiko_pink,Nadeshiko Pink,#f6adc6,246,173,198,Spring
+naples_yellow,Naples Yellow,#fada5e,250,218,94,Spring
+navajo_white,Navajo White,#ffdead,255,222,173,Spring
+neon_carrot,Neon Carrot,#ffa343,255,163,67,Spring
+neon_fuchsia,Neon Fuchsia,#fe4164,254,65,100,Spring
+new_york_pink,New York Pink,#d7837f,215,131,127,Spring
+old_gold,Old Gold,#cfb53b,207,181,59,Spring
+old_lace,Old Lace,#fdf5e6,253,245,230,Spring
+old_rose,Old Rose,#c08081,192,128,129,Spring
+olivine,Olivine,#9ab973,154,185,115,Spring
+opera_mauve,Opera Mauve,#b784a7,183,132,167,Spring
+orange_peel,Orange Peel,#ff9f00,255,159,0,Spring
+orange_ryb,Orange (Ryb),#fb9902,251,153,2,Spring
+orange_web_color,Orange (Web Color),#ffa500,255,165,0,Spring
+orchid,Orchid,#da70d6,218,112,214,Spring
+outrageous_orange,Outrageous Orange,#ff6e4a,255,110,74,Spring
+pale_chestnut,Pale Chestnut,#ddadaf,221,173,175,Spring
+pale_copper,Pale Copper,#da8a67,218,138,103,Spring
+pale_gold,Pale Gold,#e6be8a,230,190,138,Spring
+pale_goldenrod,Pale Goldenrod,#eee8aa,238,232,170,Spring
+pale_magenta,Pale Magenta,#f984e5,249,132,229,Spring
+pale_pink,Pale Pink,#fadadd,250,218,221,Spring
+pale_red_violet,Pale Red-Violet,#db7093,219,112,147,Spring
+pale_silver,Pale Silver,#c9c0bb,201,192,187,Spring
+pale_spring_bud,Pale Spring Bud,#ecebbd,236,235,189,Spring
+pale_taupe,Pale Taupe,#bc987e,188,152,126,Spring
+pale_violet_red,Pale Violet-Red,#db7093,219,112,147,Spring
+papaya_whip,Papaya Whip,#ffefd5,255,239,213,Spring
+pastel_gray,Pastel Gray,#cfcfc4,207,207,196,Spring
+pastel_magenta,Pastel Magenta,#f49ac2,244,154,194,Spring
+pastel_orange,Pastel Orange,#ffb347,255,179,71,Spring
+pastel_pink,Pastel Pink,#dea5a4,222,165,164,Spring
+pastel_red,Pastel Red,#ff6961,255,105,97,Spring
+pastel_violet,Pastel Violet,#cb99c9,203,153,201,Spring
+pastel_yellow,Pastel Yellow,#fdfd96,253,253,150,Spring
+peach,Peach,#ffe5b4,255,229,180,Spring
+peach_crayola,Peach (Crayola),#ffcba4,255,203,164,Spring
+peach_orange,Peach-Orange,#fc9,255,204,153,Spring
+peach_puff,Peach Puff,#ffdab9,255,218,185,Spring
+peach_yellow,Peach-Yellow,#fadfad,250,223,173,Spring
+pear,Pear,#d1e231,209,226,49,Spring
+pearl,Pearl,#eae0c8,234,224,200,Spring
+pearly_purple,Pearly Purple,#b768a2,183,104,162,Spring
+peridot,Peridot,#e6e200,230,226,0,Spring
+persian_orange,Persian Orange,#d99058,217,144,88,Spring
+persian_pink,Persian Pink,#f77fbe,247,127,190,Spring
+persian_rose,Persian Rose,#fe28a2,254,40,162,Spring
+peru,Peru,#cd853f,205,133,63,Spring
+piggy_pink,Piggy Pink,#fddde6,253,221,230,Spring
+pink,Pink,#ffc0cb,255,192,203,Spring
+pink_lace,Pink Lace,#ffddf4,255,221,244,Spring
+pink_orange,Pink-Orange,#f96,255,153,102,Spring
+pink_pearl,Pink Pearl,#e7accf,231,172,207,Spring
+pink_sherbet,Pink Sherbet,#f78fa7,247,143,167,Spring
+pistachio,Pistachio,#93c572,147,197,114,Spring
+platinum,Platinum,#e5e4e2,229,228,226,Spring
+puce,Puce,#c89,204,136,153,Spring
+purple_pizzazz,Purple Pizzazz,#fe4eda,254,78,218,Spring
+radical_red,Radical Red,#ff355e,255,53,94,Spring
+rajah,Rajah,#fbab60,251,171,96,Spring
+raspberry_pink,Raspberry Pink,#e25098,226,80,152,Spring
+razzle_dazzle_rose,Razzle Dazzle Rose,#f3c,255,51,204,Spring
+red_orange,Red-Orange,#ff5349,255,83,73,Spring
+rose_bonbon,Rose Bonbon,#f9429e,249,66,158,Spring
+rose_gold,Rose Gold,#b76e79,183,110,121,Spring
+rose_pink,Rose Pink,#f6c,255,102,204,Spring
+rose_quartz,Rose Quartz,#aa98a9,170,152,169,Spring
+rosy_brown,Rosy Brown,#bc8f8f,188,143,143,Spring
+royal_yellow,Royal Yellow,#fada5e,250,218,94,Spring
+ruddy_pink,Ruddy Pink,#e18e96,225,142,150,Spring
+saffron,Saffron,#f4c430,244,196,48,Spring
+salmon,Salmon,#ff8c69,255,140,105,Spring
+salmon_pink,Salmon Pink,#ff91a4,255,145,164,Spring
+sand,Sand,#c2b280,194,178,128,Spring
+sandstorm,Sandstorm,#ecd540,236,213,64,Spring
+sandy_brown,Sandy Brown,#f4a460,244,164,96,Spring
+satin_sheen_gold,Satin Sheen Gold,#cba135,203,161,53,Spring
+school_bus_yellow,School Bus Yellow,#ffd800,255,216,0,Spring
+seashell,Seashell,#fff5ee,255,245,238,Spring
+selective_yellow,Selective Yellow,#ffba00,255,186,0,Spring
+shocking_pink,Shocking Pink,#fc0fc0,252,15,192,Spring
+sky_magenta,Sky Magenta,#cf71af,207,113,175,Spring
+snow,Snow,#fffafa,255,250,250,Spring
+spring_bud,Spring Bud,#a7fc00,167,252,0,Spring
+stil_de_grain_yellow,Stil De Grain Yellow,#fada5e,250,218,94,Spring
+straw,Straw,#e4d96f,228,217,111,Spring
+sunglow,Sunglow,#fc3,255,204,51,Spring
+sunset,Sunset,#fad6a5,250,214,165,Spring
+tan,Tan,#d2b48c,210,180,140,Spring
+tangerine_yellow,Tangerine Yellow,#fc0,255,204,0,Spring
+tango_pink,Tango Pink,#e4717a,228,113,122,Spring
+taupe_gray,Taupe Gray,#8b8589,139,133,137,Spring
+tea_green,Tea Green,#d0f0c0,208,240,192,Spring
+tea_rose_orange,Tea Rose (Orange),#f88379,248,131,121,Spring
+tea_rose_rose,Tea Rose (Rose),#f4c2c2,244,194,194,Spring
+terra_cotta,Terra Cotta,#e2725b,226,114,91,Spring
+thulian_pink,Thulian Pink,#de6fa1,222,111,161,Spring
+tickle_me_pink,Tickle Me Pink,#fc89ac,252,137,172,Spring
+tiger_s_eye,Tiger'S Eye,#e08d3c,224,141,60,Spring
+timberwolf,Timberwolf,#dbd7d2,219,215,210,Spring
+titanium_yellow,Titanium Yellow,#eee600,238,230,0,Spring
+tomato,Tomato,#ff6347,255,99,71,Spring
+topaz,Topaz,#ffc87c,255,200,124,Spring
+tumbleweed,Tumbleweed,#deaa88,222,170,136,Spring
+turkish_rose,Turkish Rose,#b57281,181,114,129,Spring
+ucla_gold,Ucla Gold,#ffb300,255,179,0,Spring
+unbleached_silk,Unbleached Silk,#ffddca,255,221,202,Spring
+unmellow_yellow,Unmellow Yellow,#ff6,255,255,102,Spring
+urobilin,Urobilin,#e1ad21,225,173,33,Spring
+usc_gold,Usc Gold,#fc0,255,204,0,Spring
+vanilla,Vanilla,#f3e5ab,243,229,171,Spring
+vegas_gold,Vegas Gold,#c5b358,197,179,88,Spring
+vivid_tangerine,Vivid Tangerine,#ffa089,255,160,137,Spring
+wheat,Wheat,#f5deb3,245,222,179,Spring
+wild_strawberry,Wild Strawberry,#ff43a4,255,67,164,Spring
+wild_watermelon,Wild Watermelon,#fc6c85,252,108,133,Spring
+wood_brown,Wood Brown,#c19a6b,193,154,107,Spring
+yellow,Yellow,#ff0,255,255,0,Spring
+yellow_green,Yellow-Green,#9acd32,154,205,50,Spring
+yellow_munsell,Yellow (Munsell),#efcc00,239,204,0,Spring
+yellow_ncs,Yellow (Ncs),#ffd300,255,211,0,Spring
+yellow_orange,Yellow Orange,#ffae42,255,174,66,Spring
+yellow_process,Yellow (Process),#ffef00,255,239,0,Spring
+yellow_ryb,Yellow (Ryb),#fefe33,254,254,51,Spring

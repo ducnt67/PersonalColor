@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#e7b7ca"
+backgroundColor = "#fffefe"
+secondaryBackgroundColor = "#fff8fb"
+textColor = "#111111"
+font = "sans serif"
+
+[layout]
+max_width = 1250
+
+[server]
+enableCORS = false
+enableXsrfProtection = false

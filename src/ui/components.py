@@ -1,4 +1,6 @@
 import streamlit as st
+import base64
+from pathlib import Path
 
 def render_metric_card(label, value, sub=""):
     st.markdown(
@@ -13,23 +15,35 @@ def render_metric_card(label, value, sub=""):
     )
     
 def render_hero():
-    st.markdown("""
-    <div class="hero-box">
-        <div class="hero-title">🌸 Personal Color Prosedure</div>
-        <div class="hero-subtitle">
-            Khám phá mùa màu cá nhân, đặc điểm làn da và gợi ý phong cách được cá nhân hóa qua 
-            công nghệ AI. Thiết kế theo phong cách Soft UI tinh tế và vô cùng sang trọng, 
-            mang đến cho bạn sự đẳng cấp chuẩn Editorial.
+    banner_path = Path(__file__).resolve().parent.parent.parent / "assets" / "images" / "hero_watermark.png"
+    banner_html = ""
+    if banner_path.exists():
+        with open(banner_path, "rb") as image_file:
+            encoded_banner = base64.b64encode(image_file.read()).decode()
+        banner_html = f'''
+        <div class="hero-watermark-wrapper">
+            <img src="data:image/png;base64,{encoded_banner}" alt="Hero Banner Watermark">
         </div>
-        <div class="pill-row">
-            <div class="pill">AI Facial Analysis</div>
-            <div class="pill">Personal Color Season</div>
-            <div class="pill">Body Shape Styling</div>
-            <div class="pill">Beauty Suggestions</div>
+        '''
+
+    st.markdown(f"""
+    {banner_html}
+    <div class="hero-box">
+        <div class="hero-content">
+            <h1 class="hero-title">Khai Phá Vẻ Đẹp Độc Bản</h1>
+            <p class="hero-subtitle">
+                Hệ thống nhận diện AI chuyên sâu sẽ phân tích sắc tố da, tìm ra nhóm mùa của bạn và thiết kế cẩm nang làm đẹp mang tính cá nhân hóa tuyệt đối.
+            </p>
         </div>
     </div>
     """, unsafe_allow_html=True)
 
+def render_badge(text, background="var(--color-primary)", color="#fff"):
+    return f"""<span style="background:{background}; color:{color}; padding:4px 12px; border-radius:12px; font-size:0.85em; font-weight:600;">{text}</span>"""
+
 def load_css(file_name):
-    with open(file_name, "r", encoding="utf-8") as f:
-        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+    try:
+        with open(file_name, "r", encoding="utf-8") as f:
+            st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+    except Exception as e:
+        st.warning(f"Failed to load CSS: {e}")
